@@ -2,7 +2,7 @@
 
 **`Desenvolvedor DevOps`**
 
-Me chamo João Victor, sou autodidata em transição ativa para DevOps e Cloud. Apaixonado por automação, infraestrutura e segurança. Construo projetos práticos para consolidar conhecimento e documentar minha evolução.
+Me chamo João Victor, sou autodidata em transição ativa para DevOps e Cloud. Focado em fazer automação, infraestrutura e segurança. Construo projetos práticos para consolidar conhecimento e documentar minha evolução.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/diassdeveloper/">
