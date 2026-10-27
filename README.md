@@ -86,7 +86,7 @@ Me chamo João Victor, sou autodidata em transição ativa para DevOps e Cloud. 
     title="AWS" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
+    src="https://cdn.simpleicons.org/amazonaws/FF9900"
 />
 <img 
     align="left" 
